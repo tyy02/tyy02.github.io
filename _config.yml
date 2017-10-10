@@ -70,7 +70,7 @@ ga_domain: tyy02.github.io
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "简简单单的文字定格往事的点点滴滴。"
-sidebar-avatar: /img/avatar-yytan02.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: ./img/yytan02.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -92,16 +92,13 @@ friends: [
         title: "飘飞的叶子 Blog",
         href: "http://blog.sina.com.cn/yytan02"
     },{
-        title: "Foo",
+        title: "蚂蜂窝",
+        href: "http://www.mafengwo.cn/u/52108322.html"
+    },{
+        title: "BugMaster",
         href: "#"
     },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
+        title: "Hux",
         href: "#"
     }
 ]
