@@ -1,34 +1,32 @@
 ---
 layout:     post
-title:      "我的博客诞生啦"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "博客诞生记"
+subtitle:   " \"Hello Blog\""
 date:       2017-10-10
-author:     "Tan Yuanyuan"
+author:     "飘飞的叶子"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - 生活
 ---
 
-> “Yeah It's on. ”
+> 就这样，我与你们见面了。
 
-
-## 前言
+### 博客来历
 
 谭元元的 Blog 就这么开通了。
 
-最近在研究Git，一个分布式的版本管理工具。
-突然，发现里面有一个Pages的功能非常好玩，可以在网站上面托管自己的静态网页。
+最近在研究Git，它是一个分布式的版本管理工具。相较于svn有很多特别，这里不再描述。
+突然，发现里面Git有一个Pages的功能非常好玩，可以在网站上面托管自己的静态网页。
 所以，临时决定搭建一个属于自己的博客空间。
 
-<p id = "build"></p>
----
+经过两天的摸索，终于在[码云](https://gitee.com/yytan02/)上开通了，就是大家现在看到的这个。整个过程可以说是血泪史。
 
-## 正文
+### 技术细节
 
-博客使用的`Github`+`Jekyll`的方案搭建起来。  
+详细的搭建过程我会在下一篇文章里向大家说明。
 
----
-使用
+### 遗留问题
 
-
+由于模板从[Hux](huangxuan.me) Fork而来，所以还有一些东西没有修改成我自己的。
+修改更是深入学习的过程，慢慢享受。
